@@ -1,0 +1,188 @@
+{   
+    "header_title":"Technical Objective",
+    "sub_title": "MCQ",
+    "heading": "Let's start test..",
+    "languages": [
+        {
+            "lang_id":"1",
+            "lang_name": "Angular",
+            "img_name": "angular",
+            "tests":[
+                {
+                 "test_id":"angular-interview-questions-test-1",
+                 "test_name":"Test 1"
+                },
+				{
+                 "test_id":"angular-interview-questions-test-2",
+                 "test_name":"Test 2"
+                },
+                {
+                    "test_id":"angular-interview-questions-test-3",
+                    "test_name":"Test 3"
+                },
+                {
+                    "test_id":"angular-interview-questions-test-4",
+                    "test_name":"Test 4"
+                },
+                {
+                    "test_id":"angular-interview-questions-test-5",
+                    "test_name":"Test 5"
+                },
+                {
+                    "test_id":"angular-interview-questions-test-6",
+                    "test_name":"Test 6"
+                }
+             ]     
+        },
+        {
+            "lang_id":"2",
+            "lang_name": "JavaScript",
+            "img_name": "js",
+            "tests":[
+                {
+                "test_id":"javascript-interview-questions-test-1",
+                "test_name":"Test 1"
+                },
+                {
+                    "test_id":"javascript-interview-questions-test-2",
+                    "test_name":"Test 2"
+                },
+                {
+                    "test_id":"javascript-interview-questions-test-3",
+                    "test_name":"Test 3"
+                },
+                {
+                    "test_id":"javascript-interview-questions-test-4",
+                    "test_name":"Test 4"
+                },
+                {
+                    "test_id":"javascript-interview-questions-test-5",
+                    "test_name":"Test 5"
+                },
+                {
+                    "test_id":"javascript-interview-questions-test-6",
+                    "test_name":"Test 6"
+                }
+             ]
+        },
+		{
+            "lang_id":"3",
+            "lang_name": "CSS 3",
+            "img_name": "css3",
+            "tests":[
+                {
+                "test_id":"css-interview-questions-test-1",
+                "test_name":"Test 1"
+                },
+                {
+                    "test_id":"css-interview-questions-test-2",
+                    "test_name":"Test 2"
+                }
+             ]
+        },
+		{
+            "lang_id":"4",
+            "lang_name": "HTML 5",
+            "img_name": "html5",
+            "tests":[
+                {
+                "test_id":"html-interview-questions-test-1",
+                "test_name":"Test 1"
+                },
+                {
+                "test_id":"html-interview-questions-test-2",
+                "test_name":"Test 2"
+                }
+             ]
+        },
+        {
+            "lang_id":"5",
+            "lang_name": "Git",
+            "img_name": "git",
+            "tests":[
+                {
+                "test_id":"git-interview-questions-test-1",
+                "test_name":"Test 1"
+                }
+             ]
+        },
+        {
+            "lang_id":"6",
+            "lang_name": "JAVA",
+            "img_name": "java",
+            "tests":[
+                {
+                "test_id":"java-interview-questions-test-1",
+                "test_name":"Test 1"
+                },
+                {
+                    "test_id":"java-interview-questions-test-2",
+                    "test_name":"Test 2"
+                }
+             ]
+        },
+        {
+            "lang_id":"7",
+            "lang_name": "Spring",
+            "img_name": "spring",
+            "tests":[
+                {
+                "test_id":"spring-interview-questions-test-1",
+                "test_name":"Test 1"
+                }
+             ]
+        },
+        {
+            "lang_id":"8",
+            "lang_name": "Selenium",
+            "img_name": "selenium",
+            "tests":[
+                {
+                "test_id":"selenium-interview-questions-test-1",
+                "test_name":"Test 1"
+                },
+                {
+                    "test_id":"selenium-interview-questions-test-2",
+                    "test_name":"Test 2"
+                    }
+             ]
+        },
+        {
+            "lang_id":"9",
+            "lang_name": "TestNG",
+            "img_name": "testng",
+            "tests":[
+                {
+                "test_id":"testng-interview-questions-test-1",
+                "test_name":"Test 1"
+                }
+             ]
+        },
+        {
+            "lang_id":"10",
+            "lang_name": "ISTQB",
+            "img_name": "istqb",
+            "tests":[
+                {
+                "test_id":"istqb-interview-questions-test-1",
+                "test_name":"Test 1"
+                },
+                {
+                "test_id":"istqb-interview-questions-test-2",
+                "test_name":"Test 2"
+                }
+             ]
+        },
+        {
+            "lang_id":"11",
+            "lang_name": "Security",
+            "img_name": "security",
+            "tests":[
+                {
+                "test_id":"security-interview-questions-test-1",
+                "test_name":"Test 1"
+                }
+             ]
+        }
+    ]
+}

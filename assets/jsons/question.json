@@ -1,0 +1,150 @@
+[
+    {
+    "test_id": "angular-interview-questions-test-1",
+    "header_title":"Angular",
+    "time_sec": 600,
+    "questions": [
+        {
+        "que_id":1 ,"que_name":"Which one is Angular expression syntax", 
+        "que_options": [{"opt_id": 1,"opt_value":"[expression]","r_status":false,"a_status":"46.57"},
+                        {"opt_id": 2,"opt_value":"{{expression}}","r_status":false,"a_status":"87.66"},
+                        {"opt_id": 3,"opt_value":"(expression)","r_status":false,"a_status":"26.74"},
+                        {"opt_id": 4,"opt_value":"{expression}","r_status":false,"a_status":"10.77"}
+                        ]
+        },
+        {
+            "que_id": 2,"que_name":"Who is father of Angular",
+            "que_options": [{"opt_id": 1,"opt_value":"James Gosling","r_status":false,"a_status":"80.76"},
+                            {"opt_id": 2,"opt_value":"Tim Berners-Lee","r_status":false,"a_status":"64.51"},
+                            {"opt_id": 3,"opt_value":"Adam Abrons","r_status":false,"a_status":"70.54"},
+                            {"opt_id": 4,"opt_value":"Misko Hevery","r_status":false,"a_status":"43.31"}
+                            ]
+        },
+        {
+            "que_id":3 ,"que_name":"Which are Lifecycle Hooks",
+            "que_options": [{"opt_id": 1 ,"opt_value":"ngOnChanges","r_status":false,"a_status":"95.66"},
+                            {"opt_id": 2 ,"opt_value":"ngOnInit","r_status":false,"a_status":"43.67"},
+                            {"opt_id": 3 ,"opt_value":"ngViewStart","r_status":false,"a_status":"12.79"},
+                            {"opt_id": 4 ,"opt_value":"ngOnDestroy","r_status":false,"a_status":"67.99"}
+                            ]
+        }
+    ]  
+},
+{
+    "test_id": "angular-interview-questions-test-2",
+    "header_title":"Angular",
+    "author": "Ankush Jane",
+    "dated": "15 Aug, 2019",
+    "time_sec": 480,
+    "questions": [
+        {
+        "que_id":1,"que_name":"Which decorator is use for service",
+        "que_options": [{"opt_id":"1","opt_value":"@Service","r_status":false,"a_status":"46.56"},
+                        {"opt_id":"2","opt_value":"@Pipe","r_status":false,"a_status":"82.45"},
+                        {"opt_id":"3","opt_value":"@Injectable","r_status":false,"a_status":"29.57"},
+                        {"opt_id":"4","opt_value":"@Input","r_status":false,"a_status":"46.55"}
+                        ]
+        },
+        {
+            "que_id":2,"que_name":"Which interface must implement by pipe",
+            "que_options": [{"opt_id":"1","opt_value":"transform","r_status":false,"a_status":"98.65"},
+                            {"opt_id":"2","opt_value":"PipeTransform","r_status":false,"a_status":"75.55"},
+                            {"opt_id":"3","opt_value":"All of the above","r_status":false,"a_status":"80.74"}
+                            ]
+        },
+        {
+            "que_id":3,"que_name":"The HttpClient in _________ offers a simplified client HTTP API for Angular applications",
+            "que_options": [{"opt_id":"1","opt_value":"@angular/common/http","r_status":false,"a_status":"81.59"},
+                            {"opt_id":"2","opt_value":"@angular/core","r_status":false,"a_status":"66.43"},
+                            {"opt_id":"3","opt_value":"@angular/form","r_status":false,"a_status":"72.84"}
+                            ]
+        },
+        {
+            "que_id":4 ,"que_name":"In which version loadChildren: () => import(`./test/test.module`).then(m => m.TestModule) these feature introduced",
+            "que_options": [{"opt_id": 1 ,"opt_value":"Angular 7","r_status":false,"a_status":"98.62"},
+                            {"opt_id": 2 ,"opt_value":"Angular 8","r_status":false,"a_status":"41.66"},
+                            {"opt_id": 3 ,"opt_value":"Angular 6","r_status":false,"a_status":"12.92"},
+                            {"opt_id": 4 ,"opt_value":"Angular 4","r_status":false,"a_status":"66.79"}
+                            ]
+        },
+        {
+            "que_id":5 ,"que_name":"Which version Angular team skip to release",
+            "que_options": [{"opt_id": 1 ,"opt_value":"Angular 2","r_status":false,"a_status":"98.36"},
+                            {"opt_id": 2 ,"opt_value":"Angular 6","r_status":false,"a_status":"44.62"},
+                            {"opt_id": 3 ,"opt_value":"Angular 8","r_status":false,"a_status":"16.32"},
+                            {"opt_id": 4 ,"opt_value":"Angular 3","r_status":false,"a_status":"67.29"}
+                            ]
+        },
+        {
+            "que_id":6 ,"que_name":"The _____ path in the last route is a wildcard",
+            "que_options": [{"opt_id": 1 ,"opt_value":"##","r_status":false,"a_status":"90.38"},
+                            {"opt_id": 2 ,"opt_value":"*","r_status":false,"a_status":"22.32"},
+                            {"opt_id": 3 ,"opt_value":"@","r_status":false,"a_status":"86.42"},
+                            {"opt_id": 4 ,"opt_value":"**","r_status":false,"a_status":"15.81"}
+                            ]
+        },
+        {
+            "que_id":7 ,"que_name":"The _________ directive toggles css classes for active RouterLink bindings based on the current RouterState",
+            "que_options": [{"opt_id": 1 ,"opt_value":"RouterLinkActive","r_status":false,"a_status":"59.39"},
+                            {"opt_id": 2 ,"opt_value":"ActiveRouter","r_status":false,"a_status":"24.62"},
+                            {"opt_id": 3 ,"opt_value":"RouterStateSnapshot","r_status":false,"a_status":"38.37"},
+                            {"opt_id": 4 ,"opt_value":"ActiveRouteSnapshot","r_status":false,"a_status":"36.18"}
+                            ]
+        },
+        {
+            "que_id":8 ,"que_name":"AOT stands for",
+            "que_options": [{"opt_id": 1 ,"opt_value":"After of Time","r_status":false,"a_status":"24.79"},
+                            {"opt_id": 2 ,"opt_value":"Ahead Of Time","r_status":false,"a_status":"13.62"},
+                            {"opt_id": 3 ,"opt_value":"Just in Time","r_status":false,"a_status":"34.56"},
+                            {"opt_id": 4 ,"opt_value":"None of the above","r_status":false,"a_status":"68.35"}
+                            ]
+        },
+        {
+            "que_id":9 ,"que_name":"which are trusted, inject DomSanitizer",
+            "que_options": [{"opt_id": 1 ,"opt_value":"bypassSecurityTrustHtml","r_status":false,"a_status":"98.69"},
+                            {"opt_id": 2 ,"opt_value":"bypassSecurityTrustScript","r_status":false,"a_status":"40.82"},
+                            {"opt_id": 3 ,"opt_value":"bypassSecurityTrustStyle","r_status":false,"a_status":"42.75"},
+                            {"opt_id": 4 ,"opt_value":"bypassSecurityTrustUrl","r_status":false,"a_status":"62.46"},
+                            {"opt_id": 5 ,"opt_value":"All of the above","r_status":false,"a_status":"03.56"}
+                            ]
+        },
+        {
+            "que_id":10 ,"que_name":"To use reactive forms, import _________ from the @angular/forms package and add it to your NgModule's imports array",
+            "que_options": [{"opt_id": 1 ,"opt_value":"FormsModule","r_status":false,"a_status":"64.99"},
+                            {"opt_id": 2 ,"opt_value":"ReactiveFormsModule","r_status":false,"a_status":"55.72"},
+                            {"opt_id": 3 ,"opt_value":"All of the above","r_status":false,"a_status":"10.36"}
+                            ]
+        },
+        {
+            "que_id":11 ,"que_name":"In which version of Angular, animations get their own package i.e. @angular/platform-browser/animations",
+            "que_options": [{"opt_id": 1 ,"opt_value":"Angular 6","r_status":false,"a_status":"204.64"},
+                            {"opt_id": 2 ,"opt_value":"Angular 8","r_status":false,"a_status":"152.94"},
+                            {"opt_id": 3 ,"opt_value":"Angular 2","r_status":false,"a_status":"844.568"},
+                            {"opt_id": 4 ,"opt_value":"Angular 4","r_status":false,"a_status":"761.34"}
+                            ]
+        },
+        {
+            "que_id":12 ,"que_name":"Pipes are ____ by default",
+            "que_options": [{"opt_id": 1 ,"opt_value":"pure","r_status":false,"a_status":"207.64"},
+                            {"opt_id": 2 ,"opt_value":"impure","r_status":false,"a_status":"832.947"} 
+                            ]
+        },
+        {
+            "que_id":13 ,"que_name":"Which are different types of guards",
+            "que_options": [{"opt_id": 1 ,"opt_value":"CanActivate","r_status":false,"a_status":"21.64"},
+                            {"opt_id": 2 ,"opt_value":"CanActivateChild","r_status":false,"a_status":"153.94"},
+                            {"opt_id": 3 ,"opt_value":"CanDeactivate","r_status":false,"a_status":"467.68"},
+                            {"opt_id": 4 ,"opt_value":"CanLoad","r_status":false,"a_status":"07.378"},
+                            {"opt_id": 5 ,"opt_value":"Resolve","r_status":false,"a_status":"71.364"}
+                            ]
+        },
+        {
+            "que_id":14 ,"que_name":"Which is more accurate for intercept() method",
+            "que_options": [{"opt_id": 1 ,"opt_value":"Identifies and handles a given HTTP request","r_status":false,"a_status":"45.865"},
+                            {"opt_id": 2 ,"opt_value":"Only identify HTTP request","r_status":false,"a_status":"024.73"},
+                            {"opt_id": 3 ,"opt_value":"Only handle HTTP request","r_status":false,"a_status":"864.518"}
+                            ]
+        }
+    ]  
+}
+]
